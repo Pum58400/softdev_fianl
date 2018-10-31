@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="783" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jScrollPane1" alignment="0" pref="872" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[810, 850]"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe01;&#xe0e;&#xe2b;&#xe21;&#xe32;&#xe22;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel1MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="65" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe08;&#xe49;&#xe32;&#xe2b;&#xe19;&#xe49;&#xe32;&#xe17;&#xe35;&#xe48;&#xe02;&#xe32;&#xe22;-&#xe01;&#xe32;&#xe23;&#xe15;&#xe25;&#xe32;&#xe14;/&#xe1e;&#xe19;&#xe31;&#xe01;&#xe07;&#xe32;&#xe19;&#xe02;&#xe32;&#xe22;-&#xe01;&#xe32;&#xe23;&#xe15;&#xe25;&#xe32;&#xe14;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel2MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="92" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1c;&#xe39;&#xe49;&#xe08;&#xe31;&#xe14;&#xe01;&#xe32;&#xe23;/&#xe1c;&#xe39;&#xe49;&#xe0a;&#xe48;&#xe27;&#xe22;&#xe1c;&#xe39;&#xe49;&#xe08;&#xe31;&#xe14;&#xe01;&#xe32;&#xe23;&#xe02;&#xe32;&#xe22;-&#xe01;&#xe32;&#xe23;&#xe15;&#xe25;&#xe32;&#xe14;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel3MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="124" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe18;&#xe38;&#xe23;&#xe01;&#xe32;&#xe23;/&#xe1b;&#xe23;&#xe30;&#xe2a;&#xe32;&#xe19;&#xe07;&#xe32;&#xe19;/&#xe04;&#xe35;&#xe22;&#xe4c;&#xe02;&#xe49;&#xe2d;&#xe21;&#xe39;&#xe25;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel4MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="151" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1b;&#xe23;&#xe30;&#xe0a;&#xe32;&#xe2a;&#xe31;&#xe21;&#xe1e;&#xe31;&#xe19;&#xe18;&#xe4c;/&#xe1a;&#xe23;&#xe34;&#xe01;&#xe32;&#xe23;&#xe25;&#xe39;&#xe01;&#xe04;&#xe49;&#xe32;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel5MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="178" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1a;&#xe38;&#xe04;&#xe04;&#xe25;/&#xe1d;&#xe36;&#xe01;&#xe2d;&#xe1a;&#xe23;&#xe21;/Training"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel6MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="205" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe19;&#xe33;&#xe40;&#xe02;&#xe49;&#xe32;/&#xe2a;&#xe48;&#xe07;&#xe2d;&#xe2d;&#xe01;/Shipping/&#xe07;&#xe32;&#xe19;&#xe14;&#xe49;&#xe32;&#xe19;&#xe15;&#xe48;&#xe32;&#xe07;&#xe1b;&#xe23;&#xe30;&#xe40;&#xe17;&#xe28;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel7MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="232" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe0a;&#xe48;&#xe32;&#xe07;&#xe22;&#xe19;&#xe15;&#xe4c;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe01;&#xe25;&#xe42;&#xe23;&#xe07;&#xe07;&#xe32;&#xe19;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe40;&#xe17;&#xe04;&#xe19;&#xe34;&#xe04;&#xe2d;&#xe38;&#xe15;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe23;&#xe23;&#xe21;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel8MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="259" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe0a;&#xe48;&#xe32;&#xe07;&#xe04;&#xe2d;&#xe21;&#xe1e;&#xe34;&#xe27;&#xe40;&#xe15;&#xe2d;&#xe23;&#xe4c;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe40;&#xe17;&#xe04;&#xe19;&#xe34;&#xe04;&#xe04;&#xe2d;&#xe21;&#xe1e;&#xe34;&#xe27;&#xe40;&#xe15;&#xe2d;&#xe23;&#xe4c;/Support"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel9MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="286" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe0a;&#xe48;&#xe32;&#xe07;&#xe1e;&#xe34;&#xe21;&#xe1e;&#xe4c;&#xe2d;&#xe2d;&#xe1f;&#xe40;&#xe0b;&#xe47;&#xe17;/&#xe2d;&#xe34;&#xe07;&#xe04;&#xe4c;&#xe40;&#xe08;&#xe47;&#xe17;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel10MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="313" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe42;&#xe1f;&#xe23;&#xe4c;&#xe41;&#xe21;&#xe19;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe01;&#xe48;&#xe2d;&#xe2a;&#xe23;&#xe49;&#xe32;&#xe07;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe44;&#xe21;&#xe49;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel11MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="340" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe28;&#xe34;&#xe25;&#xe1b;&#xe30;/&#xe08;&#xe34;&#xe15;&#xe23;&#xe01;&#xe23;&#xe23;&#xe21;/&#xe2d;&#xe2d;&#xe01;&#xe41;&#xe1a;&#xe1a;&#xe1c;&#xe25;&#xe34;&#xe15;&#xe20;&#xe31;&#xe13;&#xe11;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel12MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="367" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel13">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; Web programer/Webmaster"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel13MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="394" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel14">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe02;&#xe32;&#xe22;/Sale Engineer"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel14MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="421" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel15">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe44;&#xe1f;&#xe1f;&#xe49;&#xe32;/&#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe2d;&#xe34;&#xe40;&#xe25;&#xe01;&#xe17;&#xe23;&#xe2d;&#xe19;&#xe34;&#xe01;&#xe2a;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel15MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="448" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel16">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe2a;&#xe37;&#xe48;&#xe2d;&#xe2a;&#xe32;&#xe23;/&#xe42;&#xe17;&#xe23;&#xe04;&#xe21;&#xe19;&#xe32;&#xe04;&#xe21;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel16MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="475" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe40;&#xe2b;&#xe21;&#xe37;&#xe2d;&#xe07;&#xe41;&#xe23;&#xe48;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel17MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="502" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel18">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe2a;&#xe16;&#xe32;&#xe1b;&#xe31;&#xe15;&#xe22;&#xe01;&#xe23;&#xe23;&#xe21;/&#xe2d;&#xe2d;&#xe01;&#xe41;&#xe1a;&#xe1a;&#xe15;&#xe01;&#xe41;&#xe15;&#xe48;&#xe07;/&#xe1b;&#xe23;&#xe30;&#xe40;&#xe21;&#xe34;&#xe19;&#xe23;&#xe32;&#xe04;&#xe32;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel18MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="529" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel19">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe1a;&#xe31;&#xe19;&#xe40;&#xe17;&#xe34;&#xe07;/&#xe19;&#xe31;&#xe01;&#xe41;&#xe2a;&#xe14;&#xe07;/&#xe1e;&#xe23;&#xe34;&#xe4a;&#xe15;&#xe15;&#xe35;&#xe49;/&#xe19;&#xe31;&#xe01;&#xe14;&#xe19;&#xe15;&#xe23;&#xe35;/&#xe19;&#xe31;&#xe01;&#xe23;&#xe49;&#xe2d;&#xe07;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel19MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="556" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel20">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe19;&#xe31;&#xe01;&#xe27;&#xe34;&#xe17;&#xe22;&#xe32;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c;&#xe01;&#xe32;&#xe23;&#xe01;&#xe35;&#xe2c;&#xe32;/&#xe40;&#xe17;&#xe23;&#xe19;&#xe40;&#xe19;&#xe2d;&#xe23;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel20MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="583" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel21">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1e;&#xe31;&#xe12;&#xe19;&#xe32;&#xe18;&#xe38;&#xe23;&#xe01;&#xe34;&#xe08;/&#xe1e;&#xe31;&#xe12;&#xe19;&#xe32;&#xe2d;&#xe07;&#xe04;&#xe4c;&#xe01;&#xe23; ISO"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel21MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="610" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel22">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe19;&#xe31;&#xe01;&#xe02;&#xe48;&#xe32;&#xe27;/&#xe1a;&#xe23;&#xe23;&#xe13;&#xe32;&#xe18;&#xe34;&#xe01;&#xe32;&#xe23;/&#xe19;&#xe31;&#xe01;&#xe40;&#xe02;&#xe35;&#xe22;&#xe19;/&#xe41;&#xe1b;&#xe25;&#xe20;&#xe32;&#xe29;&#xe32;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel22MouseClicked"/>
+                <EventHandler event="mouseEntered" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel22MouseEntered"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="637" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe1a;&#xe23;&#xe34;&#xe01;&#xe32;&#xe23;&#xe17;&#xe31;&#xe48;&#xe27;&#xe44;&#xe1b;/&#xe1a;&#xe23;&#xe34;&#xe01;&#xe23;/&#xe1e;&#xe19;&#xe31;&#xe01;&#xe07;&#xe32;&#xe19;&#xe40;&#xe2a;&#xe34;&#xe23;&#xe4c;&#xe1f;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel23MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="664" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe41;&#xe1e;&#xe17;&#xe22;&#xe4c;/&#xe1e;&#xe22;&#xe32;&#xe1a;&#xe32;&#xe25;/&#xe40;&#xe20;&#xe2a;&#xe31;&#xe0a;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel24MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="691" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel25">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe17;&#xe22;&#xe32;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c;&#xe2d;&#xe32;&#xe2b;&#xe32;&#xe23;/&#xe42;&#xe20;&#xe0a;&#xe19;&#xe32;&#xe01;&#xe32;&#xe23;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel25MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="718" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel26">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe2a;&#xe48;&#xe07;&#xe40;&#xe2d;&#xe01;&#xe2a;&#xe32;&#xe23;/&#xe2a;&#xe48;&#xe07;&#xe1c;&#xe25;&#xe34;&#xe15;&#xe20;&#xe31;&#xe13;&#xe11;&#xe4c;/&#xe02;&#xe31;&#xe1a;&#xe23;&#xe16;/&#xe41;&#xe21;&#xe48;&#xe1a;&#xe49;&#xe32;&#xe19;/&#xe23;&#xe1b;&#xe20;."/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel26MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="745" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel27">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe23;&#xe48;&#xe07;&#xe23;&#xe31;&#xe14;&#xe2b;&#xe19;&#xe35;&#xe49;&#xe2a;&#xe34;&#xe19;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel27MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="772" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel28">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe2d;&#xe37;&#xe48;&#xe19;&#xe46;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel28MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="37" y="799" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel29">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe01;&#xe29;&#xe15;&#xe23;/&#xe1b;&#xe28;&#xe38;&#xe2a;&#xe31;&#xe15;&#xe27;&#xe4c;/&#xe1b;&#xe23;&#xe30;&#xe21;&#xe07;/&#xe40;&#xe2b;&#xe21;&#xe37;&#xe2d;&#xe07;&#xe41;&#xe23;&#xe48;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel29MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="65" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel30">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe2a;&#xe48;&#xe07;&#xe40;&#xe2a;&#xe23;&#xe34;&#xe21;/&#xe2a;&#xe19;&#xe31;&#xe1a;&#xe2a;&#xe19;&#xe38;&#xe19;/&#xe1b;&#xe23;&#xe30;&#xe2a;&#xe32;&#xe19;&#xe07;&#xe32;&#xe19;&#xe01;&#xe32;&#xe23;&#xe02;&#xe32;&#xe22;-&#xe01;&#xe32;&#xe23;&#xe15;&#xe25;&#xe32;&#xe14;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel30MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="92" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel31">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe01;&#xe32;&#xe23;&#xe28;&#xe36;&#xe01;&#xe29;&#xe32;/&#xe27;&#xe34;&#xe0a;&#xe32;&#xe01;&#xe32;&#xe23;/&#xe2d;&#xe32;&#xe08;&#xe32;&#xe23;&#xe22;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel31MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="124" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel32">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe25;&#xe02;&#xe32;&#xe19;&#xe38;&#xe01;&#xe32;&#xe23;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel32MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="151" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel33">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1a;&#xe31;&#xe0d;&#xe0a;&#xe35;/&#xe01;&#xe32;&#xe23;&#xe40;&#xe07;&#xe34;&#xe19;-&#xe01;&#xe32;&#xe23;&#xe18;&#xe19;&#xe32;&#xe04;&#xe32;&#xe23;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel33MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="178" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel34">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe08;&#xe31;&#xe14;&#xe0b;&#xe37;&#xe49;&#xe2d;/&#xe04;&#xe25;&#xe31;&#xe07;&#xe2a;&#xe34;&#xe19;&#xe04;&#xe49;&#xe32;/logistics"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel34MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="205" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel35">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe42;&#xe23;&#xe07;&#xe07;&#xe32;&#xe19;/&#xe01;&#xe32;&#xe23;&#xe1c;&#xe25;&#xe34;&#xe15;/&#xe04;&#xe27;&#xe1a;&#xe04;&#xe38;&#xe21;&#xe04;&#xe38;&#xe13;&#xe20;&#xe32;&#xe1e;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel35MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="232" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel36">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe0a;&#xe48;&#xe32;&#xe07;&#xe44;&#xe1f;&#xe1f;&#xe49;&#xe32;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe2d;&#xe34;&#xe40;&#xe25;&#xe01;&#xe17;&#xe23;&#xe2d;&#xe19;&#xe34;&#xe01;&#xe2a;&#xe4c;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe42;&#xe25;&#xe2b;&#xe30;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel36MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="259" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel37">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe0a;&#xe48;&#xe32;&#xe07;&#xe08;&#xe34;&#xe27;&#xe40;&#xe27;&#xe2d;&#xe23;&#xe4c;&#xe23;&#xe35;&#xe48;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe17;&#xe2d;&#xe07;-&#xe40;&#xe07;&#xe34;&#xe19;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel37MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="286" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel38">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe14;&#xe35;&#xe44;&#xe0b;&#xe19;&#xe4c;&#xe40;&#xe19;&#xe2d;&#xe23;&#xe4c;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe15;&#xe31;&#xe14;&#xe40;&#xe22;&#xe47;&#xe1a;&#xe40;&#xe2a;&#xe37;&#xe49;&#xe2d;&#xe1c;&#xe49;&#xe32;/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe41;&#xe1e;&#xe17;&#xe40;&#xe17;&#xe34;&#xe23;&#xe4c;&#xe19;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel38MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="313" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel39">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe40;&#xe02;&#xe35;&#xe22;&#xe19;&#xe41;&#xe1a;&#xe1a;/&#xe07;&#xe32;&#xe19;Drawing"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel39MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="340" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel40">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; Programmer/System Admin/IT"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel40MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="367" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel41">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; Web Design/Graphic Design"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel41MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="394" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel42">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe01;&#xe25;/&#xe42;&#xe23;&#xe07;&#xe07;&#xe32;&#xe19;/&#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe2d;&#xe38;&#xe15;&#xe2a;&#xe32;&#xe2b;&#xe01;&#xe23;&#xe23;&#xe21;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel42MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="421" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel43">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe42;&#xe22;&#xe18;&#xe32;/&#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe01;&#xe48;&#xe2d;&#xe2a;&#xe23;&#xe49;&#xe32;&#xe07;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel43MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="448" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel44">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe04;&#xe2d;&#xe21;&#xe1e;&#xe34;&#xe27;&#xe40;&#xe15;&#xe2d;&#xe23;&#xe4c;/&#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe23;&#xe30;&#xe1a;&#xe1a;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel44MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="475" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel45">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe28;&#xe27;&#xe01;&#xe23;&#xe2a;&#xe34;&#xe48;&#xe07;&#xe41;&#xe27;&#xe14;&#xe25;&#xe49;&#xe2d;&#xe21;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel45MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="502" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel46">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe42;&#xe06;&#xe29;&#xe13;&#xe32;/&#xe02;&#xe32;&#xe22;&#xe42;&#xe06;&#xe29;&#xe13;&#xe32;/Creative/&#xe0a;&#xe48;&#xe32;&#xe07;&#xe20;&#xe32;&#xe1e;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel46MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="529" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel47">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe2a;&#xe38;&#xe02;&#xe20;&#xe32;&#xe1e;&#xe04;&#xe27;&#xe32;&#xe21;&#xe07;&#xe32;&#xe21;/&#xe40;&#xe2a;&#xe23;&#xe34;&#xe21;&#xe2a;&#xe27;&#xe22;/&#xe2a;&#xe1b;&#xe32;/&#xe1f;&#xe34;&#xe15;&#xe40;&#xe19;&#xe2a;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel47MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="556" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel48">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe1c;&#xe39;&#xe49;&#xe08;&#xe31;&#xe14;&#xe01;&#xe32;&#xe23;&#xe17;&#xe31;&#xe48;&#xe27;&#xe44;&#xe1b;/&#xe1c;&#xe39;&#xe49;&#xe2d;&#xe33;&#xe19;&#xe27;&#xe22;&#xe01;&#xe32;&#xe23;/&#xe07;&#xe32;&#xe19;&#xe1c;&#xe39;&#xe49;&#xe1a;&#xe23;&#xe34;&#xe2b;&#xe32;&#xe23;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel48MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="583" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel49">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe28;&#xe23;&#xe29;&#xe10;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c;/&#xe2a;&#xe16;&#xe34;&#xe15;&#xe34;/&#xe07;&#xe32;&#xe19;&#xe27;&#xe34;&#xe08;&#xe31;&#xe22;/&#xe2b;&#xe38;&#xe49;&#xe19;/&#xe01;&#xe32;&#xe23;&#xe1b;&#xe23;&#xe30;&#xe01;&#xe31;&#xe19;&#xe20;&#xe31;&#xe22;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel49MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="610" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel50">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe01;&#xe32;&#xe23;&#xe42;&#xe23;&#xe07;&#xe41;&#xe23;&#xe21;/&#xe25;&#xe48;&#xe32;&#xe21;/&#xe44;&#xe01;&#xe14;&#xe4c;/&#xe21;&#xe31;&#xe04;&#xe04;&#xe38;&#xe40;&#xe17;&#xe28;&#xe01;&#xe4c;/&#xe07;&#xe32;&#xe19;&#xe17;&#xe48;&#xe2d;&#xe07;&#xe40;&#xe17;&#xe35;&#xe48;&#xe22;&#xe27;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel50MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="637" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel51">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe14;&#xe49;&#xe32;&#xe19;&#xe2d;&#xe32;&#xe2b;&#xe32;&#xe23;-&#xe40;&#xe04;&#xe23;&#xe37;&#xe48;&#xe2d;&#xe07;&#xe14;&#xe37;&#xe48;&#xe21;/&#xe01;&#xe38;&#xe4a;&#xe01;/&#xe1a;&#xe32;&#xe23;&#xe4c;&#xe40;&#xe17;&#xe19;&#xe40;&#xe14;&#xe2d;&#xe23;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel51MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="664" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel52">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe27;&#xe34;&#xe17;&#xe22;&#xe32;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c;/&#xe40;&#xe04;&#xe21;&#xe35;/&#xe0a;&#xe35;&#xe27;&#xe30;/&#xe2a;&#xe34;&#xe48;&#xe07;&#xe41;&#xe27;&#xe14;&#xe25;&#xe49;&#xe2d;&#xe21;/&#xe20;&#xe39;&#xe21;&#xe34;&#xe28;&#xe32;&#xe2a;&#xe15;&#xe23;&#xe4c;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel52MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="691" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel53">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe40;&#xe08;&#xe49;&#xe32;&#xe2b;&#xe19;&#xe49;&#xe32;&#xe17;&#xe35;&#xe48;&#xe04;&#xe27;&#xe32;&#xe21;&#xe1b;&#xe25;&#xe2d;&#xe14;&#xe20;&#xe31;&#xe22;&#xe27;&#xe34;&#xe0a;&#xe32;&#xe0a;&#xe35;&#xe1e;(&#xe08;&#xe1b;.&#xe27;&#xe34;&#xe0a;&#xe32;&#xe0a;&#xe35;&#xe1e;)"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel53MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="718" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel54">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19; Part-time/&#xe19;&#xe31;&#xe01;&#xe28;&#xe36;&#xe01;&#xe29;&#xe32;&#xe1d;&#xe36;&#xe01;&#xe07;&#xe32;&#xe19;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel54MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="745" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel55">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="18" style="1"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&gt;&gt; &#xe07;&#xe32;&#xe19;&#xe2a;&#xe33;&#xe2b;&#xe23;&#xe31;&#xe1a;&#xe1c;&#xe39;&#xe49;&#xe1e;&#xe34;&#xe01;&#xe32;&#xe23;"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel55MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="482" y="772" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel56">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Angsana New" size="36" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&#xe04;&#xe49;&#xe19;&#xe2b;&#xe32;&#xe07;&#xe32;&#xe19;&#xe15;&#xe32;&#xe21;&#xe1b;&#xe23;&#xe30;&#xe40;&#xe20;&#xe17;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="310" y="0" width="230" height="50"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel57">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="opaque" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="810" height="50"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="Background">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="opaque" type="boolean" value="true"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="810" height="850"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
